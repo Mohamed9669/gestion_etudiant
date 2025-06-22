@@ -1,0 +1,212 @@
+{
+  "etudiants": [
+    {
+      "id": "1",
+      "matricule": "Mat_001",
+      "nom": "NIANG",
+      "prenom": "Adama",
+      "classe": {
+        "filiere": "Cybersécurité",
+        "niveau": "Licence 2"
+      },
+      "notes": [
+        {
+          "matiere": "Mathématiques",
+          "note": 15
+        },
+        {
+          "matiere": "Cryptographie",
+          "note": 18
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "matricule": "Mat_003",
+      "nom": "NIANG",
+      "prenom": "Adama",
+      "classe": {
+        "filiere": "Cybersécurité",
+        "niveau": "Licence 2"
+      },
+      "notes": [
+        {
+          "matiere": "Mathématiques",
+          "note": 15
+        },
+        {
+          "matiere": "Cryptographie",
+          "note": 18
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "nom": "nom",
+      "prenom": "prenom",
+      "matricule": "DATA-IA",
+      "classe": {
+        "id": 1,
+        "filiere": "filiere",
+        "niveau": "classe"
+      },
+      "notes": []
+    },
+    {
+      "id": "1",
+      "nom": "nom",
+      "prenom": "prenom",
+      "matricule": "DATA-IA",
+      "classe": {
+        "id": 1,
+        "filiere": "filiere",
+        "niveau": "classe"
+      },
+      "notes": []
+    },
+    {
+      "id": "1",
+      "nom": "nom",
+      "prenom": "prenom",
+      "matricule": "DATA-IA",
+      "classe": {
+        "id": 1,
+        "filiere": "filiere",
+        "niveau": "classe"
+      },
+      "notes": []
+    },
+    {
+      "id": "1",
+      "nom": "nom",
+      "prenom": "prenom",
+      "matricule": "DATA-IA",
+      "classe": {
+        "id": 1,
+        "filiere": "filiere",
+        "niveau": "classe"
+      },
+      "notes": []
+    },
+    {
+      "id": "1",
+      "nom": "nom",
+      "prenom": "prenom",
+      "matricule": "MAT-001",
+      "classe": {
+        "id": 1,
+        "filiere": "filiere",
+        "niveau": "classe"
+      },
+      "notes": []
+    },
+    {
+      "id": "1",
+      "nom": "nom",
+      "prenom": "prenom",
+      "matricule": "MAT-001",
+      "classe": {
+        "id": 1,
+        "filiere": "filiere",
+        "niveau": "classe"
+      },
+      "notes": []
+    },
+    {
+      "id": "1",
+      "nom": "nom",
+      "prenom": "prenom",
+      "matricule": "MAT-001",
+      "classe": {
+        "id": 1,
+        "filiere": "filiere",
+        "niveau": "classe"
+      },
+      "notes": []
+    },
+    {
+      "id": "1",
+      "nom": "nom",
+      "prenom": "prenom",
+      "matricule": "DATA-IA",
+      "classe": {
+        "id": 1,
+        "filiere": "filiere",
+        "niveau": "classe"
+      },
+      "notes": []
+    },
+    {
+      "id": "1",
+      "nom": "nom",
+      "prenom": "prenom",
+      "matricule": "DATA-IA",
+      "classe": {
+        "id": 1,
+        "filiere": "filiere",
+        "niveau": "classe"
+      },
+      "notes": []
+    },
+    {
+      "id": "1",
+      "nom": "nom",
+      "prenom": "prenom",
+      "matricule": "DATA-IA",
+      "classe": {
+        "id": 1,
+        "filiere": "filiere",
+        "niveau": "classe"
+      },
+      "notes": []
+    },
+    {
+      "id": "1",
+      "nom": "nom",
+      "prenom": "prenom",
+      "matricule": "DATA-IA",
+      "classe": {
+        "id": 1,
+        "filiere": "filiere",
+        "niveau": "classe"
+      },
+      "notes": []
+    },
+    {
+      "id": 1,
+      "nom": "nom",
+      "prenom": "prenom",
+      "matricule": "MAT-001",
+      "classe": {
+        "id": 1,
+        "filiere": "filiere",
+        "niveau": "classe"
+      },
+      "notes": []
+    },
+    {
+      "id": 1,
+      "nom": "nom",
+      "prenom": "prenom",
+      "matricule": "MAT-001",
+      "classe": {
+        "id": 1,
+        "filiere": "filiere",
+        "niveau": "classe"
+      },
+      "notes": []
+    },
+    {
+      "id": 1,
+      "nom": "nom",
+      "prenom": "prenom",
+      "matricule": "MAT-001",
+      "classe": {
+        "id": 1,
+        "filiere": "filiere",
+        "niveau": "classe"
+      },
+      "notes": []
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "gestion-etudiant-ts",
+  "version": "1.0.0",
+  "main": "app.js", 
+  "type": "module",
+  "scripts": {
+    "dev":  "tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yaye Fatou Gueye <yayefatougueye2004@gmail.com>",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
